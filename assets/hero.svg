@@ -1,0 +1,69 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 800" role="img" aria-labelledby="title">
+  <title id="title">ملابس أطفال قطنية معلّقة على حبل، مع سحاب وقمر وألوان باستيل</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#E7F1EC"/>
+      <stop offset="1" stop-color="#FAEEE7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="800" fill="#FBF6F0"/>
+  <path d="M170 748V392a330 330 0 0 1 660 0v356Z" fill="url(#sky)" stroke="#EADCCD" stroke-width="2"/>
+  <circle cx="686" cy="242" r="78" fill="#FBF3E6"/>
+  <circle cx="714" cy="226" r="72" fill="#E9F1EB"/>
+  <g fill="#E3D3C4" opacity=".8">
+    <circle cx="270" cy="220" r="3"/>
+    <circle cx="330" cy="170" r="2.4"/>
+    <circle cx="580" cy="168" r="3"/>
+    <circle cx="780" cy="330" r="3"/>
+    <circle cx="240" cy="470" r="3"/>
+  </g>
+  <g stroke="#E3D3C4" stroke-width="3" stroke-linecap="round" fill="none" opacity=".9">
+    <path d="M360 232v15M352 239h16"/>
+    <path d="M600 300v13M594 306h12"/>
+    <path d="M790 418v12M784 424h12"/>
+  </g>
+  <path d="M300 300c0-18 15-33 33-33 11 0 21 5 27 14 6-14 20-24 37-24 22 0 40 18 40 40 0 2 0 3-1 5 15 4 26 17 26 32 0 18-15 33-33 33H332c-18 0-32-15-32-33Z" fill="#FFFFFF" opacity=".75"/>
+  <path d="M596 468c0-15 12-27 27-27 9 0 17 5 22 12 5-11 16-19 28-19 18 0 33 15 33 33 0 1 0 2-1 3 12 3 21 14 21 26 0 15-12 27-27 27h-76c-15 0-27-12-27-27Z" fill="#FFFFFF" opacity=".55"/>
+  <path d="M170 748V664c116-42 226 30 334 0s226-42 326 4v80Z" fill="#F6E9DD"/>
+  <path d="M226 336Q500 398 774 336" fill="none" stroke="#C7B5A5" stroke-width="3" stroke-linecap="round"/>
+
+  <g transform="translate(300 352) scale(1.18)" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="19" y="-16" width="9" height="21" rx="4" fill="#D9C9B9"/>
+    <path d="M34 8C40 2 64 2 70 8L94 20L101 52C102 57 96 59 92 55L82 44L82 98C82 112 74 120 56 120 38 120 32 112 32 98L32 44L22 55C18 59 12 57 13 52L20 20Z" fill="#FFFBF5" stroke="#D6C4B4" stroke-width="2"/>
+    <path d="M41 9C47 22 61 22 67 9" fill="none" stroke="#D6C4B4" stroke-width="2"/>
+    <path d="M52 22V100" stroke="#E7C9C2" stroke-width="3" stroke-dasharray="4 6"/>
+    <circle cx="52" cy="32" r="2" fill="#C9AFA0"/>
+    <circle cx="52" cy="50" r="2" fill="#C9AFA0"/>
+    <circle cx="52" cy="68" r="2" fill="#C9AFA0"/>
+    <path d="M40 116h14v18a7 7 0 0 1-14 0Z" fill="#FFFBF5" stroke="#D6C4B4" stroke-width="2"/>
+    <path d="M58 116h14v18a7 7 0 0 1-14 0Z" fill="#FFFBF5" stroke="#D6C4B4" stroke-width="2"/>
+    <path d="M32 92c14 5 34 5 48 0" fill="none" stroke="#E7C9C2" stroke-width="3"/>
+  </g>
+
+  <g transform="translate(468 364) scale(1.22)" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="35" y="-16" width="9" height="21" rx="4" fill="#D9C9B9"/>
+    <circle cx="6" cy="30" r="11" fill="#FFFBF5" stroke="#D6C4B4" stroke-width="2"/>
+    <circle cx="100" cy="30" r="11" fill="#FFFBF5" stroke="#D6C4B4" stroke-width="2"/>
+    <path d="M35 10C44 3 66 3 75 10L98 24L112 52C115 58 108 62 104 57L90 42L94 66L112 168C82 180 28 180 -2 168L16 66L20 42L6 57C2 62 -5 58 -2 52L12 24Z" fill="#FFFBF5" stroke="#D6C4B4" stroke-width="2"/>
+    <path d="M43 10C49 25 61 25 67 10" fill="none" stroke="#D6C4B4" stroke-width="2"/>
+    <path d="M18 66H90" stroke="#F0C3CB" stroke-width="4"/>
+    <path d="M53 66c-7-9-17-6-16 2 1 8 12 8 16 1Z" fill="#F6DCD6" stroke="#C9AFA0" stroke-width="1.4"/>
+    <path d="M53 69c7-9 17-6 16 2-1 8-12 8-16 1Z" fill="#F6DCD6" stroke="#C9AFA0" stroke-width="1.4"/>
+    <path d="M7 158c30 10 65 10 95 0" stroke="#F6DCD6" stroke-width="8" fill="none"/>
+    <g fill="#F0C3CB">
+      <circle cx="34" cy="106" r="3.6"/>
+      <circle cx="64" cy="126" r="3.6"/>
+      <circle cx="82" cy="98" r="3.6"/>
+      <circle cx="48" cy="146" r="3.6"/>
+    </g>
+  </g>
+
+  <g transform="translate(636 354) scale(1.1)" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="29" y="-16" width="9" height="21" rx="4" fill="#D9C9B9"/>
+    <path d="M31 8C39 2 63 2 71 8L94 20L102 52C103 57 97 59 93 55L83 44L83 98C63 104 39 104 19 98L19 44L9 55C5 59 -1 57 0 52L8 20Z" fill="#FFFBF5" stroke="#D6C4B4" stroke-width="2"/>
+    <path d="M43 8C49 22 61 22 67 8" fill="none" stroke="#D6C4B4" stroke-width="2"/>
+    <path d="M8 44l12-9M92 44l-12-9" stroke="#CFE4D6" stroke-width="3" fill="none"/>
+    <path d="M38 62c0-5 4-9 9-9 3 0 5 1 7 3 2-5 6-7 10-7 7 0 12 5 12 12 0 1 0 2 0 2H38Z" fill="#DDEBE1"/>
+    <path d="M30 96c14 4 32 4 46 0" fill="none" stroke="#CFE4D6" stroke-width="4"/>
+  </g>
+</svg>

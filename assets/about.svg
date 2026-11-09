@@ -1,0 +1,43 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title">
+  <title id="title">ملابس أطفال مطوية بعناية مع سحاب وألوان هادئة</title>
+  <rect width="900" height="700" fill="#FBF5EE"/>
+  <circle cx="450" cy="380" r="300" fill="#F6E7DC"/>
+  <path d="M640 600v-96c0-26 20-46 46-46 10 0 18 6 22 14 6-12 18-20 32-20 22 0 40 18 40 40 0 22-18 40-40 40h-18v68Z" fill="#DDEBE1" opacity=".8"/>
+  <path d="M176 236c0-20 16-36 36-36 12 0 23 6 30 16 6-16 22-27 40-27 24 0 44 20 44 44 0 2 0 4-1 5 16 4 28 18 28 35 0 20-16 36-36 36H212c-20 0-36-16-36-36Z" fill="#FFFFFF" opacity=".85"/>
+  <g fill="#D9C4B4" opacity=".6">
+    <circle cx="680" cy="236" r="4"/>
+    <circle cx="586" cy="180" r="3"/>
+    <circle cx="720" cy="560" r="4"/>
+  </g>
+  <g stroke="#D9C4B4" stroke-width="3" stroke-linecap="round" fill="none" opacity=".7">
+    <path d="M300 200v16M292 208h16"/>
+    <path d="M620 300v12M614 306h12"/>
+    <path d="M760 430v12M754 436h12"/>
+  </g>
+
+  <ellipse cx="450" cy="572" rx="210" ry="26" fill="#E9D6C6" opacity=".55"/>
+
+  <g stroke-linejoin="round">
+    <rect x="266" y="474" width="368" height="86" rx="26" fill="#FFFBF5" stroke="#E2D0C0" stroke-width="2"/>
+    <path d="M298 476v82M602 476v82" stroke="#EADCCF" stroke-width="2"/>
+    <path d="M318 474c0-8 6-14 14-14h236c8 0 14 6 14 14" fill="none" stroke="#E2D0C0" stroke-width="2"/>
+
+    <rect x="296" y="394" width="308" height="82" rx="24" fill="#DDEBE1" stroke="#C4D8C9" stroke-width="2"/>
+    <path d="M328 396v78M572 396v78" stroke="#CBDFD1" stroke-width="2"/>
+    <path d="M344 394c0-8 6-14 14-14h188c8 0 14 6 14 14" fill="none" stroke="#C4D8C9" stroke-width="2"/>
+
+    <rect x="330" y="316" width="240" height="80" rx="22" fill="#F6DDD6" stroke="#E4BFB6" stroke-width="2"/>
+    <path d="M360 318v76M540 318v76" stroke="#EBCBC4" stroke-width="2"/>
+    <path d="M376 316c0-8 6-14 14-14h120c8 0 14 6 14 14" fill="none" stroke="#E4BFB6" stroke-width="2"/>
+  </g>
+
+  <path d="M560 318l6-34" stroke="#C7B5A5" stroke-width="2"/>
+  <g transform="translate(566 258) rotate(8)">
+    <rect x="0" y="0" width="52" height="28" rx="6" fill="#F7EBCF" stroke="#E0CFA9" stroke-width="2"/>
+    <circle cx="12" cy="14" r="3" fill="#D9C08D"/>
+    <path d="M30 9h12M30 18h8" stroke="#D9C08D" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <path d="M450 316v-26" stroke="#C7B5A5" stroke-width="2"/>
+  <path d="M450 292c0-20 14-34 34-34 10 0 18 4 24 11 5-12 17-20 30-20 18 0 33 15 33 33 0 1 0 3-1 4 12 3 22 14 22 26 0 15-12 27-27 27h-73" fill="#FFFFFF" opacity=".65"/>
+</svg>

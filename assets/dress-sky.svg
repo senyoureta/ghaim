@@ -1,0 +1,39 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-labelledby="title">
+  <title id="title">فستان قطن بلون أزرق سماوي</title>
+  <rect width="800" height="1000" fill="#EDF3F7"/>
+  <circle cx="400" cy="500" r="310" fill="#D7E6EF"/>
+  <path d="M96 168c0-20 16-36 36-36 12 0 23 6 30 16 6-16 22-27 40-27 24 0 44 20 44 44 0 2 0 4-1 5 16 4 28 18 28 35 0 20-16 36-36 36H132c-20 0-36-16-36-36Z" fill="#FFFFFF" opacity=".55"/>
+  <path d="M672 748c0-16 13-29 29-29 10 0 19 5 24 13 5-13 18-22 32-22 20 0 36 16 36 36 0 2 0 3-1 4 13 3 23 15 23 28 0 16-13 29-29 29h-85c-16 0-29-13-29-29Z" fill="#FFFFFF" opacity=".45"/>
+  <g fill="#8193A1" opacity=".4">
+    <circle cx="150" cy="330" r="4"/>
+    <circle cx="648" cy="248" r="4"/>
+    <circle cx="688" cy="642" r="4"/>
+  </g>
+  <g stroke="#8193A1" stroke-width="3" stroke-linecap="round" opacity=".5" fill="none">
+    <path d="M642 400v16M634 408h16"/>
+    <path d="M160 700v14M153 707h14"/>
+    <path d="M596 190v10M591 195h10"/>
+  </g>
+  <g transform="translate(400 500) scale(2.9) translate(-53 -88)" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M35 10C44 3 66 3 75 10L98 24L112 52C115 58 108 62 104 57L90 42L94 66L112 168C82 180 28 180 -2 168L16 66L20 42L6 57C2 62 -5 58 -2 52L12 24Z" fill="#FFFBF9" stroke="#8193A1" stroke-width="1.6"/>
+    <path d="M43 10C49 25 61 25 67 10" fill="none" stroke="#8193A1" stroke-width="1.6"/>
+    <path d="M18 66H90" stroke="#B2D0E0" stroke-width="4" fill="none"/>
+    <path d="M53 66c-7-9-17-6-16 2 1 8 12 8 16 1Z" fill="#CFE3EE" stroke="#8193A1" stroke-width="1.1"/>
+    <path d="M53 69c7-9 17-6 16 2-1 8-12 8-16 1Z" fill="#CFE3EE" stroke="#8193A1" stroke-width="1.1"/>
+    <circle cx="53" cy="69" r="2.2" fill="#B2D0E0"/>
+    <path d="M7 158c30 10 65 10 95 0" stroke="#CFE3EE" stroke-width="7" fill="none" opacity=".9"/>
+    <g fill="#CFE3EE">
+      <circle cx="34" cy="106" r="3.6"/>
+      <circle cx="64" cy="126" r="3.6"/>
+      <circle cx="82" cy="98" r="3.6"/>
+      <circle cx="48" cy="146" r="3.6"/>
+      <circle cx="86" cy="140" r="3.6"/>
+    </g>
+    <g fill="#B2D0E0">
+      <circle cx="40" cy="113" r="1.6"/>
+      <circle cx="70" cy="133" r="1.6"/>
+      <circle cx="88" cy="105" r="1.6"/>
+      <circle cx="54" cy="153" r="1.6"/>
+    </g>
+  </g>
+</svg>
